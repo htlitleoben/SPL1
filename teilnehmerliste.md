@@ -1,3 +1,4 @@
+
 # SPL Gruppe 1
 ## Teilnehmerliste
 
@@ -5,4 +6,5 @@
 Alexander G.
 
 ### Schüler
-
+Alexander Gustav
+Lukas F.
