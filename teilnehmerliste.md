@@ -5,5 +5,4 @@
 Alexander G.
 
 ### Schüler
-Alexander Gustav
 Mario H.
